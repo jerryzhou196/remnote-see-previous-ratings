@@ -1,3 +1,4 @@
+# See Previous Ratings during Review
 
 This plugin adds a color-coded widget that allows you to view at a glance the previous ratings you've given for a specific card during Review 
 <i> (and it's also part of my application to RemNote as an frontend intern, assuming you guys are still open to hiring. 🤠) </i>
