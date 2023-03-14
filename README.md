@@ -1,15 +1,16 @@
 # See Previous Ratings during Review
 
-This plugin adds a color-coded widget that allows you to view at a glance the previous ratings you've given for a specific card during Review 
-<i> (and it's also part of my application to RemNote as an frontend intern, assuming you guys are still open to hiring. 🤠) </i>
+This plugin adds a color-coded widget that allows you to view the previous ratings you've given for a specific card at a glance.
 
-NOTE: The addon is a port of my addon on [AnkiWeb](https://ankiweb.net/shared/info/1906641654).
 <img width="1000" alt="nice" src="https://user-images.githubusercontent.com/46613983/224896325-3af9d4c3-5331-4ebc-97bf-78d4f674f30e.png">
 
 ## Usage
 
-After installing, the addon will be integrated within the flashcard review section. Each color corresponds to a rating, and is displayed in chronological order from oldest to newest. Check the addon settings to see what kind of rating (AGAIN, HARD, GOOD, EASY, RESET, LEECH) corresponds to what color. The color mappings can also be directly configured. 
+- After installing, the addon will be integrated within the flashcard review section.
 
+- Each color corresponds to a rating, and is displayed in chronological order from oldest to newest.
+
+- Check the addon settings to see what kind of rating (AGAIN, HARD, GOOD, EASY, RESET, LEECH) corresponds to what color. The color mappings can also be directly configured.
 
 ## Remnote Frontend Intern Application
 

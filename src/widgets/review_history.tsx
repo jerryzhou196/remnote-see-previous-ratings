@@ -18,8 +18,8 @@ let ScoreColor: Record<string, string> = {
   VIEWED_AS_LEECH: 'black',
   RESET: 'white',
 };
+
 export function ReviewHistoryComponent() {
-  //insert boilerplate react functional component
   const [card, setCard] = useState<Card | undefined>(undefined);
   const plugin = usePlugin();
   const [cardId] = useSessionStorageState<string | undefined>('currentCardId', undefined);
@@ -30,6 +30,7 @@ export function ReviewHistoryComponent() {
     ) as string;
     if (color && ScoreColor[key] != color) ScoreColor[key] = color;
   }
+
   useEffect(() => {
     const fetchCard = async (id: string | undefined) => {
       return await plugin.card.findOne(id);
@@ -57,7 +58,6 @@ export function ReviewHistoryComponent() {
       ></div>
     );
   });
-  //return a full width div with the colors array inside of it
   return (
     <div
       className="legend-background h-[50px] w-full flex justify-center"
