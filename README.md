@@ -1,8 +1,9 @@
-<img width="1000" alt="nice" src="https://user-images.githubusercontent.com/46613983/224896325-3af9d4c3-5331-4ebc-97bf-78d4f674f30e.png">
-
 NOTE: The addon is a port of my addon on [AnkiWeb](https://ankiweb.net/shared/info/1906641654).
 
 This plugin adds a color-coded widget that allows you to visualize previous ratings for a specific card during Review (and it's also part of my application to RemNote as an frontend intern, assuming you guys are still open to hiring)
+
+<img width="1000" alt="nice" src="https://user-images.githubusercontent.com/46613983/224896325-3af9d4c3-5331-4ebc-97bf-78d4f674f30e.png">
+
 
 ## Usage
 
