@@ -1,6 +1,4 @@
-
-
-<img width="1420" alt="nice" src="user-images.githubusercontent.com/46613983/224895958-4120af49-8bbf-4adb-a368-5d82c6af51c0.png">
+<img width="1420" alt="nice" src="https://user-images.githubusercontent.com/46613983/224896325-3af9d4c3-5331-4ebc-97bf-78d4f674f30e.png">
 
 NOTE: The addon is a port of my addon on [AnkiWeb](https://ankiweb.net/shared/info/1906641654).
 
