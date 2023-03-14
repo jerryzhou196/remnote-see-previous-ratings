@@ -7,7 +7,7 @@ NOTE: The addon is a port of my addon on [AnkiWeb](https://ankiweb.net/shared/in
 
 ## Usage
 
-After installing, the addon will be integrated within the flashcard review section. Each color corresponds to a rating, and is displayed in chronological order from oldest to newest.
+After installing, the addon will be integrated within the flashcard review section. Each color corresponds to a rating, and is displayed in chronological order from oldest to newest. Check the addon settings to see what kind of rating (AGAIN, HARD, GOOD, EASY, RESET, LEECH) corresponds to what color. The color mappings can also be directly configured. 
 
 
 ## Remnote Frontend Intern Application
