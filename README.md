@@ -1,6 +1,8 @@
 # See Previous Ratings during Review
 
-This plugin adds a color-coded widget that allows you to view the previous ratings you've given for a specific card at a glance.
+This plugin adds a color-coded widget that allows you to view the previous ratings of a card at a glance.
+
+Each color corresponds to a rating (`red`: again, `yellow`: hard, `lightgreen`: good, `green`: easy, `white`: reset/too early, `black`: leech) and is displayed in chronolgical order of reviews from left to right. 
 
 <img width="1000" alt="nice" src="https://user-images.githubusercontent.com/46613983/224896325-3af9d4c3-5331-4ebc-97bf-78d4f674f30e.png">
 
