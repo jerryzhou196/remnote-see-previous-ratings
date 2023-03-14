@@ -14,9 +14,11 @@ I remember you guys were originally hiring for a front-end intern quite a while 
 
 I also wanted to leave some comments, coming from experience building the occasional Anki Addon and being a die-hard user of Anki:
 
-- Firstly, I have a huge amount of respect for the team behind the RemNote Addon docs. The difference between your guide and the Anki Addon guide is night and day. Private capital really is quite beautiful. I still remember having to scour the internet for the **Android** Anki Database Guide to figure out the **Desktop** schema. The work that the RemNote team is doing is a huge breath of fresh air. It defintely contributed to my interest in working with the team.
+- Firstly, I have a huge amount of respect for the team behind the RemNote Addon docs. The difference between your guide and the Anki Addon guide is night and day. Private capital really is quite beautiful. I still remember having to scour the internet for the **Android** Anki Database Guide to figure out the **Desktop** schema. The work that the RemNote team is doing is a huge breath of fresh air. It definitely contributed to my interest in working with the team.
 
 - I understand the rationele behind iframe embedding to protect the user from malicious plugins, but it limits quite a few CSS features. I've enabled the _trust this plugin option,_ but because everything is still embedded within a `canvas` object, one of the features that is well-used by Anki addons - pseudo-class selectors - can no longer be used. This Addon was originally designed to use a CSS popup feature to be able to display metadata about each review session when the user hovers over the widget. (shown in the first thumnail [here](https://ankiweb.net/shared/info/31746032))
+
+- I noticed many parallels between the Anki Addon system and the RemNotes which I admire. However, one notable feature from Anki that I don't see is resetting default addon settings. It would be quite useful, especially because my addon allows the user to change the color associated with each card's rating.
 
 - With Anki, someone built a [web inspector addon](https://ankiweb.net/shared/info/31746032) that was kind of incredible. I don't know much about RemNote's internal tech stack, but it would be quite powerful to be able to relegate a "webview" of sorts such that while propertiary code is kept hidden, plugin devs would be able to debug their work. I'm not sure if this was because I wasn't using a popup widget or something else, but I wasn't able to view the source for my plugin while building it.
 
