@@ -1,6 +1,6 @@
 # See Previous Ratings
 
-This plugin adds a color-coded widget that allows you to visualize previous ratings for a specific card during review (and it's also part of my application to RemNote as an frontend intern, assuming you guys are still hiring 🤠)
+This plugin adds a color-coded widget that allows you to visualize previous ratings for a specific card during Review (and it's also part of my application to RemNote as an frontend intern, assuming you guys are still open to hiring)
 
 ## Usage
 
