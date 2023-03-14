@@ -10,7 +10,8 @@
     "allowJs": true,
     "skipLibCheck": true,
     "isolatedModules": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "noImplicitAny": true
   },
   "ts-node": {
     "compilerOptions": {

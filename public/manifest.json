@@ -1,17 +1,16 @@
 {
+  "author": "jerryzhou196",
+  "name": "See Previous Ratings",
+  "description": "",
+  "enableOnMobile": false,
+  "id": "see-previous-ratings",
+  "repoUrl": "https://github.com/jerryzhou196/see-previous-ratings",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {

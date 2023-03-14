@@ -1,1 +1,46 @@
-/* Add your plugin styles here. */
+.dark .legend-background {
+  background-color: #313137;
+}
+
+.dark .legend {
+  background-color: #48444c;
+}
+
+.legend {
+  background-color: #e7e7ef;
+}
+
+/* .tooltip {
+  position: relative;
+  display: inline-block;
+}
+.tooltip .tooltiptext {
+  width: 200px;
+  max-width: 700px;
+  background-color: black;
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 200%;
+  left: 50%;
+  font-size: 20px;
+  margin-left: -100px;
+  line-height: normal;
+}
+.tooltip .tooltiptext::after {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+} */
