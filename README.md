@@ -1,13 +1,10 @@
-# See Previous Ratings
+
+
+<img width="1420" alt="Screen Shot 2021-07-30 at 3 35 51 PM" src="user-images.githubusercontent.com/46613983/224895958-4120af49-8bbf-4adb-a368-5d82c6af51c0.png">
 
 NOTE: The addon is a port of my addon on [AnkiWeb](https://ankiweb.net/shared/info/1906641654).
 
 This plugin adds a color-coded widget that allows you to visualize previous ratings for a specific card during Review (and it's also part of my application to RemNote as an frontend intern, assuming you guys are still open to hiring)
-
-NOTE: The plugin is a port of my addon on [AnkiWeb](https://ankiweb.net/shared/info/1906641654).
-
-![image](https://user-images.githubusercontent.com/46613983/224894582-d652ccd2-a9b5-41d2-ac00-85a18585847b.png)
-
 
 ## Usage
 
